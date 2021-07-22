@@ -1,0 +1,4 @@
+.idea/
+automate.file
+*.log
+*__pycache__/
